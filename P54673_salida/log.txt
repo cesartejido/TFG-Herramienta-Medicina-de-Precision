@@ -1,0 +1,63 @@
+2025-03-14 13:34:51,035 Running colabfold 1.5.5 (066260179251626a47ab02baa044c48fd293a6d7)
+2025-03-14 13:34:52,594 Running on GPU
+2025-03-14 13:34:52,774 Found 5 citations for tools or databases
+2025-03-14 13:34:52,774 Query 1/1: sp_P54673_PI3K1_DICDI_Phosphatidylinositol_3-kinase_1_OS_Dictyostelium_discoideum_OX_44689_GN_pikA_PE_2_SV_2 (length 1571)
+2025-03-14 13:34:53,380 Sleeping for 6s. Reason: PENDING
+2025-03-14 13:34:59,941 Sleeping for 10s. Reason: PENDING
+2025-03-14 13:35:10,509 Sleeping for 8s. Reason: PENDING
+2025-03-14 13:35:19,077 Sleeping for 7s. Reason: PENDING
+2025-03-14 13:35:26,632 Sleeping for 10s. Reason: PENDING
+2025-03-14 13:35:37,199 Sleeping for 9s. Reason: RUNNING
+2025-03-14 13:35:46,755 Sleeping for 6s. Reason: RUNNING
+2025-03-14 13:35:53,312 Sleeping for 5s. Reason: RUNNING
+2025-03-14 13:35:58,865 Sleeping for 6s. Reason: RUNNING
+2025-03-14 13:36:05,423 Sleeping for 10s. Reason: RUNNING
+2025-03-14 13:36:15,985 Sleeping for 6s. Reason: RUNNING
+2025-03-14 13:36:22,543 Sleeping for 7s. Reason: RUNNING
+2025-03-14 13:36:30,107 Sleeping for 5s. Reason: RUNNING
+2025-03-14 13:36:35,669 Sleeping for 6s. Reason: RUNNING
+2025-03-14 13:36:42,221 Sleeping for 8s. Reason: RUNNING
+2025-03-14 13:36:50,777 Sleeping for 6s. Reason: RUNNING
+2025-03-14 13:36:57,383 Sleeping for 5s. Reason: RUNNING
+2025-03-14 13:37:02,946 Sleeping for 7s. Reason: RUNNING
+2025-03-14 13:37:10,504 Sleeping for 10s. Reason: RUNNING
+2025-03-14 13:37:21,068 Sleeping for 8s. Reason: RUNNING
+2025-03-14 13:37:29,636 Sleeping for 8s. Reason: RUNNING
+2025-03-14 13:37:38,201 Sleeping for 7s. Reason: RUNNING
+2025-03-14 13:37:45,765 Sleeping for 9s. Reason: RUNNING
+2025-03-14 13:37:55,329 Sleeping for 5s. Reason: RUNNING
+2025-03-14 13:38:00,893 Sleeping for 7s. Reason: RUNNING
+2025-03-14 13:38:08,457 Sleeping for 9s. Reason: RUNNING
+2025-03-14 13:38:24,406 Setting max_seq=512, max_extra_seq=5120
+2025-03-14 13:40:49,809 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=63.5 pTM=0.666
+2025-03-14 13:42:42,512 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=64.7 pTM=0.68 tol=10.9
+2025-03-14 13:44:34,951 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=65.3 pTM=0.676 tol=6.66
+2025-03-14 13:46:27,337 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=65.5 pTM=0.674 tol=5.83
+2025-03-14 13:46:27,340 alphafold2_ptm_model_1_seed_000 took 470.8s (3 recycles)
+2025-03-14 13:48:21,827 alphafold2_ptm_model_2_seed_000 recycle=0 pLDDT=65.4 pTM=0.652
+2025-03-14 13:50:14,393 alphafold2_ptm_model_2_seed_000 recycle=1 pLDDT=66.8 pTM=0.662 tol=16.2
+2025-03-14 13:52:06,961 alphafold2_ptm_model_2_seed_000 recycle=2 pLDDT=66.8 pTM=0.661 tol=11.3
+2025-03-14 13:53:59,532 alphafold2_ptm_model_2_seed_000 recycle=3 pLDDT=67.2 pTM=0.667 tol=7.79
+2025-03-14 13:53:59,534 alphafold2_ptm_model_2_seed_000 took 450.2s (3 recycles)
+2025-03-14 13:55:54,276 alphafold2_ptm_model_3_seed_000 recycle=0 pLDDT=64.9 pTM=0.646
+2025-03-14 13:57:47,039 alphafold2_ptm_model_3_seed_000 recycle=1 pLDDT=66.4 pTM=0.659 tol=20.7
+2025-03-14 13:59:39,767 alphafold2_ptm_model_3_seed_000 recycle=2 pLDDT=66.9 pTM=0.666 tol=10.3
+2025-03-14 14:01:32,674 alphafold2_ptm_model_3_seed_000 recycle=3 pLDDT=67.8 pTM=0.667 tol=7.81
+2025-03-14 14:01:32,676 alphafold2_ptm_model_3_seed_000 took 451.1s (3 recycles)
+2025-03-14 14:03:27,653 alphafold2_ptm_model_4_seed_000 recycle=0 pLDDT=63.8 pTM=0.667
+2025-03-14 14:05:20,337 alphafold2_ptm_model_4_seed_000 recycle=1 pLDDT=65.5 pTM=0.667 tol=12.9
+2025-03-14 14:07:13,307 alphafold2_ptm_model_4_seed_000 recycle=2 pLDDT=65.2 pTM=0.66 tol=7.56
+2025-03-14 14:09:05,925 alphafold2_ptm_model_4_seed_000 recycle=3 pLDDT=65.4 pTM=0.664 tol=5.02
+2025-03-14 14:09:05,926 alphafold2_ptm_model_4_seed_000 took 451.2s (3 recycles)
+2025-03-14 14:11:00,424 alphafold2_ptm_model_5_seed_000 recycle=0 pLDDT=62.1 pTM=0.667
+2025-03-14 14:12:52,949 alphafold2_ptm_model_5_seed_000 recycle=1 pLDDT=63 pTM=0.667 tol=11.2
+2025-03-14 14:14:45,473 alphafold2_ptm_model_5_seed_000 recycle=2 pLDDT=63.2 pTM=0.667 tol=9
+2025-03-14 14:16:37,980 alphafold2_ptm_model_5_seed_000 recycle=3 pLDDT=63.2 pTM=0.669 tol=7.26
+2025-03-14 14:16:37,982 alphafold2_ptm_model_5_seed_000 took 450.0s (3 recycles)
+2025-03-14 14:16:40,056 reranking models by 'plddt' metric
+2025-03-14 14:16:40,056 rank_001_alphafold2_ptm_model_3_seed_000 pLDDT=67.8 pTM=0.667
+2025-03-14 14:16:40,057 rank_002_alphafold2_ptm_model_2_seed_000 pLDDT=67.2 pTM=0.667
+2025-03-14 14:16:40,057 rank_003_alphafold2_ptm_model_1_seed_000 pLDDT=65.5 pTM=0.674
+2025-03-14 14:16:40,057 rank_004_alphafold2_ptm_model_4_seed_000 pLDDT=65.4 pTM=0.664
+2025-03-14 14:16:40,057 rank_005_alphafold2_ptm_model_5_seed_000 pLDDT=63.2 pTM=0.669
+2025-03-14 14:16:45,163 Done
