@@ -16,18 +16,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la fun
 La medicina de precisión se centra en personalizar tratamientos basándose en la variabilidad genética de los individuos. En el caso del cáncer, ciertas mutaciones en genes específicos pueden influir en la eficacia de tratamientos quimioterapéuticos. Este proyecto busca abordar estas variabilidades y optimizar regímenes terapéuticos.
 
 ## 📂 Metodología
+Este proyecto sigue una metodología basada en el uso de herramientas bioinformáticas para analizar la interacción entre proteínas mutadas y fármacos. Primero, se identifican mutaciones relevantes en genes asociados al cáncer (como PI3K). Luego, se predicen las estructuras 3D de estas proteínas utilizando AlphaFold. A partir de esas estructuras, se realizan simulaciones de docking con AutoDock Vina y Chimera para evaluar la afinidad de unión de fármacos (como Alpelisib). Todo el código y los resultados se organizan en este repositorio, promoviendo la reproducibilidad y la transparencia del trabajo.
 
-3. **Predicción de Estructuras Proteicas**  
-   Empleando **AlphaFold**, se generarán modelos tridimensionales de proteínas mutadas, evaluando cómo las mutaciones afectan la interacción proteína-fármaco.
-
-4. **Evaluación de Interacciones**  
-   Mediante simulaciones de acoplamiento molecular, se determinará la afinidad entre los fármacos quimioterapéuticos y las proteínas mutadas.
-
-## Resultados Esperados
-Se espera desarrollar una herramienta que permita a los oncólogos predecir la eficacia de tratamientos quimioterapéuticos según el perfil genético de los pacientes, mejorando la personalización y reduciendo efectos adversos.
-
-## Discusión
-La implementación de esta herramienta no solo impactará en la toma de decisiones clínicas, sino que también impulsará la investigación en medicina de precisión. Este proyecto representa un avance en la personalización de tratamientos contra el cáncer.
-
-## Conclusiones
-El uso de **AlphaFold** para modelar interacciones entre proteínas y fármacos supone un paso significativo en la medicina de precisión, mejorando resultados clínicos y optimizando tratamientos oncológicos.
+## ✅ Conclusiones
+El uso de diferentes herramientas biosanitarias para modelar interacciones entre proteínas y fármacos supone un paso significativo en la medicina de precisión, mejorando resultados clínicos y optimizando tratamientos oncológicos.
