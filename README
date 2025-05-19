@@ -1,17 +1,21 @@
-Herramienta para Medicina de Precisión
+# 🧬 Herramienta para Medicina de Precisión
+📌 Trabajo de Fin de Grado – Ingeniería de la Salud (Universidad de Burgos)
 
-## Resumen
-Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la funcionalidad de fármacos quimioterapéuticos en pacientes con diferentes mutaciones genéticas. Para ello, se empleará la herramienta **AlphaFold** para predecir estructuras tridimensionales de proteínas, enmarcando este enfoque dentro de la **medicina de precisión**.
+## 👤 Autor
+Cesartejido  
+Grado en Ingeniería de la Salud – Universidad de Burgos
 
-## Introducción
+## 🧑‍🏫 Tutores
+José Antonio Barbero Aparicio
+Darío Fernández Soppino
+
+## 🎯 Resumen
+Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la funcionalidad de fármacos quimioterapéuticos en pacientes con diferentes mutaciones genéticas. Para ello, se empleará la herramienta **AlphaFold** para predecir estructuras tridimensionales de proteínas, y otras herramientas, como **UCSF Chimera**, para el modelado molecular y docking, enmarcando este enfoque dentro de la **medicina de precisión**.
+
+## 📄 Introducción
 La medicina de precisión se centra en personalizar tratamientos basándose en la variabilidad genética de los individuos. En el caso del cáncer, ciertas mutaciones en genes específicos pueden influir en la eficacia de tratamientos quimioterapéuticos. Este proyecto busca abordar estas variabilidades y optimizar regímenes terapéuticos.
 
-## Metodología
-1. **Selección de Pacientes y Muestras**  
-   Pacientes con diferentes tipos de cáncer serán seleccionados y se obtendrán muestras de tejido para análisis genético.
-
-2. **Análisis Genético**  
-   Se identificarán mutaciones en genes clave, como **EGFR** en cáncer de pulmón.
+## 📂 Metodología
 
 3. **Predicción de Estructuras Proteicas**  
    Empleando **AlphaFold**, se generarán modelos tridimensionales de proteínas mutadas, evaluando cómo las mutaciones afectan la interacción proteína-fármaco.
@@ -27,12 +31,3 @@ La implementación de esta herramienta no solo impactará en la toma de decision
 
 ## Conclusiones
 El uso de **AlphaFold** para modelar interacciones entre proteínas y fármacos supone un paso significativo en la medicina de precisión, mejorando resultados clínicos y optimizando tratamientos oncológicos.
-
-## Bibliografía
-1. Gadhia, K., & Kaur, R. (2021). *A study on BCR-ABL kinase domain mutations in chronic myeloid leukemia*. Asian Pacific Journal of Cancer Biology, 6(3), 225-227. [DOI:10.31557/apjcb.2021.6.3.225-227](https://doi.org/10.31557/apjcb.2021.6.3.225-227)  
-2. Ginsburg, G. S., & Phillips, K. A. (2018). *Precision medicine: From science to value*. Health Affairs, 37(5), 745-753. [DOI:10.1377/hlthaff.2017.1624](https://doi.org/10.1377/hlthaff.2017.1624)  
-3. Martis, A., & Coutinho, A. (2023). *Enhancing mutational hotspot predictions*. bioRxiv. [DOI:10.1101/2023.02.08.527697](https://doi.org/10.1101/2023.02.08.527697)  
-4. Paul, S. (2023). *Precision medicine in lung cancer treatment*. Journal of Advanced Zoology, 44(6), 2691. [DOI:10.17762/jaz.v44is6.2691](https://doi.org/10.17762/jaz.v44is6.2691)  
-5. Ac, A., & Kaur, R. (2020). *Detection of rare and novel EGFR mutations in NSCLC patients*. Lung Cancer, 145, 1-8. [DOI:10.1016/j.lungcan.2019.10.030](https://doi.org/10.1016/j.lungcan.2019.10.030)  
-6. Venkatraman, S., & Ramasamy, S. (2023). *Application of precision medicine in medical conditions*. International Journal of Basic & Clinical Pharmacology, 12(1), 1-10. [DOI:10.18203/2319-2003.ijbcp20231901](https://doi.org/10.18203/2319-2003.ijbcp20231901)  
-7. *Prediction and recommendation of precision medicine for cancer using machine learning techniques*. (2019). International Journal of Engineering and Advanced Technology, 8(3), 1-6. [DOI:10.35940/ijeat.b3727.129219](https://doi.org/10.35940/ijeat.b3727.129219)  
