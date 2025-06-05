@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 3.0098
+HEADER 1  - Drug Score                        : 0.0471
+HEADER 2  - Number of V. Vertices             :    58
+HEADER 3  - Mean alpha-sphere radius          : 3.2810
+HEADER 4  - Mean alpha-sphere SA              : 0.3609
+HEADER 5  - Mean B-factor                     : 0.7942
+HEADER 6  - Hydrophobicity Score              : 40.9412
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Volume Score                      : 4.7059
+HEADER 9  - Real volume (approximation)       : 249.6716
+HEADER 10 - Charge Score                      :     2
+HEADER 11 - Local hydrophobic density Score   : 22.3750
+HEADER 12 - Number of apolar alpha sphere     :    32
+HEADER 13 - Proportion of apolar alpha sphere : 0.5517
+ATOM   7575  NE2 HIS A 931     -17.938   9.359 -11.984  1.00 95.19           N 0
+ATOM   7345   SG CYS A 901     -19.641  15.930 -13.070  1.00 95.75           S 0
+ATOM   7830  CE2 PHE A 960     -22.422  11.984 -14.133  1.00 90.81           C 0
+ATOM   7554  CD2 LEU A 929     -19.422  12.266  -9.688  1.00 96.69           C 0
+ATOM   7344    O CYS A 901     -16.312  15.469 -12.445  1.00 95.75           O 0
+ATOM   7786    O VAL A 955     -19.609  12.055 -16.828  1.00 67.81           O 0
+ATOM   7828  CD2 PHE A 960     -22.531  13.273 -14.664  1.00 90.81           C 0
+ATOM   7372   SG CYS A 905     -16.625  14.953 -15.477  1.00 92.00           S 0
+ATOM   7358   CB TYR A 904     -15.320  11.859 -10.688  1.00 95.50           C 0
+ATOM   7367    N CYS A 905     -14.391  13.555 -13.406  1.00 92.00           N 0
+ATOM   7368   CA CYS A 905     -14.250  13.609 -14.852  1.00 92.00           C 0
+ATOM   7391  OG1 THR A 908     -13.734   9.789 -15.273  1.00 92.62           O 0
+ATOM   7574  CE1 HIS A 931     -17.844   8.328 -12.812  1.00 95.19           C 0
+ATOM   7785   CB VAL A 955     -19.531   9.203 -17.234  1.00 67.81           C 0
+ATOM   7788  CG2 VAL A 955     -18.953   7.844 -17.625  1.00 67.81           C 0
+ATOM   7782    N VAL A 955     -17.859  10.352 -18.672  1.00 67.81           N 0
+ATOM   7359    O TYR A 904     -13.586  11.406 -13.328  1.00 95.50           O 0
+ATOM   7357    C TYR A 904     -13.992  12.414 -12.734  1.00 95.50           C 0
+ATOM   7448   CG ARG A 916     -17.109   5.020 -15.938  1.00 84.06           C 0
+ATOM   7388   CB THR A 908     -13.227   8.555 -14.766  1.00 92.62           C 0
+ATOM   7390  CG2 THR A 908     -13.805   8.305 -13.375  1.00 92.62           C 0
+ATOM   7777  CD1 PHE A 954     -14.055  13.461 -19.375  1.00 64.19           C 0
+ATOM   7371    O CYS A 905     -12.469  12.719 -16.188  1.00 92.00           O 0
+ATOM   7772   CA PHE A 954     -16.062  10.930 -20.203  1.00 64.19           C 0
+ATOM   7774   CB PHE A 954     -15.984  12.406 -20.594  1.00 64.19           C 0
+ATOM   7789    N LEU A 956     -20.016  12.516 -18.844  1.00 76.12           N 0
+ATOM   7993  CE1 PHE A 980     -17.812  19.609 -16.625  1.00 93.50           C 0
+ATOM   8510   CG MET A1043     -14.984  18.000 -21.078  1.00 80.62           C 0
+ATOM   7796  CD2 LEU A 956     -19.500  17.406 -19.422  1.00 76.12           C 0
+ATOM   7995   CZ PHE A 980     -17.641  18.719 -15.570  1.00 93.50           C 0
+ATOM   8511   SD MET A1043     -14.398  19.266 -19.875  1.00 80.62           S 0
+ATOM   7370   CB CYS A 905     -14.820  14.922 -15.398  1.00 92.00           C 0
+ATOM   7779  CE1 PHE A 954     -12.766  13.992 -19.328  1.00 64.19           C 0
+ATOM   8478   CZ PHE A1039     -10.477  17.141 -18.672  1.00 89.69           C 0
+ATOM   8027   SG CYS A 984     -14.016  19.250 -15.539  1.00 94.25           S 0
+ATOM   7792   CB LEU A 956     -19.875  14.945 -19.141  1.00 76.12           C 0
+ATOM   8509    O MET A1043     -16.703  16.656 -23.672  1.00 80.62           O 0
+ATOM   7776   CG PHE A 954     -14.594  12.977 -20.562  1.00 64.19           C 0
+ATOM   8532   CB ALA A1046     -17.219  13.234 -23.484  1.00 66.19           C 0
+ATOM   7379  CG2 VAL A 906     -10.312  16.672 -14.680  1.00 94.69           C 0
+TER
+END
