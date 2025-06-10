@@ -1,0 +1,56 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N1_22 
+REMARK       I    between atoms: C3_3  and  N1_22 
+REMARK       I    between atoms: C3_3  and  N2_24 
+REMARK    2  A    between atoms: C13_7  and  C15_9 
+REMARK    3  A    between atoms: C15_9  and  C18_12 
+REMARK    4  A    between atoms: C10_17  and  C9_18 
+REMARK    5  A    between atoms: C7_25  and  C8_26 
+REMARK       I    between atoms: C8_26  and  N3_27 
+ROOT
+HETATM    1  C1  1LT A1102      13.560   5.251   5.282  1.00 29.48     0.051 A 
+HETATM    2  C2  1LT A1102      13.066   4.261   3.366  1.00 31.21     0.175 A 
+HETATM    3  C9  1LT A1102      14.111   6.200   4.427  1.00 30.21     0.043 A 
+HETATM    4  C   1LT A1102      13.566   5.307   6.775  1.00 29.25     0.072 C 
+HETATM    5  S   1LT A1102      13.842   5.688   2.778  1.00 30.69    -0.049 SA
+HETATM    6  N   1LT A1102      12.980   4.159   4.668  1.00 31.52    -0.228 NA
+ENDROOT
+BRANCH   2   7
+HETATM    7  N1  1LT A1102      12.557   3.268   2.550  1.00 32.80    -0.287 N 
+HETATM    8  C3  1LT A1102      12.572   3.309   1.148  1.00 30.89     0.325 C 
+HETATM    9  N2  1LT A1102      12.010   2.240   0.476  1.00 31.78    -0.320 N 
+HETATM   10  O   1LT A1102      13.060   4.248   0.538  1.00 28.68    -0.247 OA
+HETATM   11  C4  1LT A1102      11.386   1.042   1.059  1.00 31.75     0.129 C 
+HETATM   12  C7  1LT A1102      12.006   2.218  -0.996  1.00 33.94     0.180 C 
+HETATM   13  C5  1LT A1102      10.635   0.432  -0.104  1.00 33.06     0.022 C 
+HETATM   14  C6  1LT A1102      11.401   0.847  -1.339  1.00 32.91     0.037 C 
+HETATM   15  H1  1LT A1102      12.148   2.458   2.994  1.00  0.00     0.172 HD
+BRANCH  12  16
+HETATM   16  C8  1LT A1102      11.217   3.370  -1.623  1.00 36.23     0.238 C 
+HETATM   17  O1  1LT A1102      11.608   3.894  -2.670  1.00 36.45    -0.271 OA
+HETATM   18  N3  1LT A1102      10.163   3.803  -0.950  1.00 38.59    -0.368 N 
+HETATM   19  H31 1LT A1102       9.623   4.580  -1.303  1.00  0.00     0.159 HD
+HETATM   20  H32 1LT A1102       9.900   3.357  -0.083  1.00  0.00     0.159 HD
+ENDBRANCH  12  16
+ENDBRANCH   2   7
+BRANCH   3  21
+HETATM   21  C10 1LT A1102      14.813   7.489   4.621  1.00 28.09    -0.014 A 
+HETATM   22  C11 1LT A1102      14.871   8.101   5.868  1.00 28.02     0.032 A 
+HETATM   23  C12 1LT A1102      15.524   9.309   5.980  1.00 27.11     0.118 A 
+HETATM   24  N4  1LT A1102      16.130   9.927   4.956  1.00 28.32    -0.264 NA
+HETATM   25  C13 1LT A1102      16.110   9.316   3.763  1.00 31.46     0.051 A 
+HETATM   26  C14 1LT A1102      15.454   8.095   3.546  1.00 28.89     0.041 A 
+BRANCH  25  27
+HETATM   27  C15 1LT A1102      16.901  10.013   2.630  1.00 36.92     0.095 C 
+HETATM   28  C17 1LT A1102      16.521  11.502   2.555  1.00 34.98     0.031 C 
+HETATM   29  C16 1LT A1102      16.635   9.343   1.272  1.00 37.10     0.031 C 
+BRANCH  27  30
+HETATM   30  C18 1LT A1102      18.504   9.909   2.918  1.00 41.31     0.400 C 
+HETATM   31  F1  1LT A1102      18.910   8.648   3.019  1.00 42.86    -0.170 F 
+HETATM   32  F   1LT A1102      18.869  10.513   4.043  1.00 43.09    -0.170 F 
+HETATM   33  F2  1LT A1102      19.195  10.476   1.930  1.00 40.44    -0.170 F 
+ENDBRANCH  27  30
+ENDBRANCH  25  27
+ENDBRANCH   3  21
+TORSDOF 5
