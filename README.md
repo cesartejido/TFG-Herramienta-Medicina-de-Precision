@@ -6,8 +6,7 @@ Cesartejido
 Grado en Ingeniería de la Salud – Universidad de Burgos
 
 ## 🧑‍🏫 Tutores
-José Antonio Barbero Aparicio
-Darío Fernández Soppino
+José Antonio Barbero Aparicio y Darío Fernández Soppino
 
 ## 🎯 Resumen
 Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la funcionalidad de fármacos quimioterapéuticos en pacientes con diferentes mutaciones genéticas. Para ello, se empleará la herramienta **AlphaFold** para predecir estructuras tridimensionales de proteínas, y otras herramientas, como **UCSF Chimera**, para el modelado molecular y docking, enmarcando este enfoque dentro de la **medicina de precisión**.
