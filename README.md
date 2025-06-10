@@ -1,4 +1,4 @@
-# 🧬 Predicción estructural y acoplamiento molecular en mutaciones de PI3K$\alpha$
+# 🧬 Predicción estructural y acoplamiento molecular en mutaciones de PI3Kα
 📌 Trabajo de Fin de Grado – Ingeniería de la Salud (Universidad de Burgos)
 
 ## 👤 Autor
