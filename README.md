@@ -2,7 +2,7 @@
 📌 Trabajo de Fin de Grado – Ingeniería de la Salud (Universidad de Burgos)
 
 ## 👤 Autor
-Cesartejido  
+Julio César Tejido González  
 Grado en Ingeniería de la Salud – Universidad de Burgos
 
 ## 🧑‍🏫 Tutores
