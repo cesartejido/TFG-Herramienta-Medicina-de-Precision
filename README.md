@@ -19,3 +19,5 @@ Este proyecto sigue una metodología basada en el uso de herramientas bioinform�
 
 ## ✅ Conclusiones
 El uso de diferentes herramientas biosanitarias para modelar interacciones entre proteínas y fármacos supone un paso significativo en la medicina de precisión, mejorando resultados clínicos y optimizando tratamientos oncológicos.
+
+## ![PI3K_color](https://github.com/user-attachments/assets/e7ac25b5-ce61-4b4a-a461-12c6eb9436ce)
