@@ -9,16 +9,16 @@ Grado en Ingeniería de la Salud – Universidad de Burgos
 José Antonio Barbero Aparicio y Darío Fernández Soppino
 
 ## 🎯 Resumen
-Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la funcionalidad de fármacos quimioterapéuticos en pacientes con diferentes mutaciones genéticas. Para ello, se empleará la herramienta **AlphaFold** para predecir estructuras tridimensionales de proteínas, y otras herramientas, como **UCSF Chimera**, para el modelado molecular y docking, enmarcando este enfoque dentro de la **medicina de precisión**.
+Este proyecto tiene como objetivo desarrollar una aplicación que evalúe la funcionalidad de fármacos quimioterapéuticos en pacientes con diferentes mutaciones genéticas. Para ello, se empleará la herramienta **ColabFold** para predecir estructuras tridimensionales de proteínas, y otras herramientas, como **UCSF Chimera** y **AutoDock Vina**, para el modelado molecular y docking, enmarcando este enfoque dentro de la **medicina de precisión**.
 
 ## 📄 Introducción
 La medicina de precisión se centra en personalizar tratamientos basándose en la variabilidad genética de los individuos. En el caso del cáncer, ciertas mutaciones en genes específicos pueden influir en la eficacia de tratamientos quimioterapéuticos. Este proyecto busca abordar estas variabilidades y optimizar regímenes terapéuticos.
 
 ## 📂 Metodología
-Este proyecto sigue una metodología basada en el uso de herramientas bioinformáticas para analizar la interacción entre proteínas mutadas y fármacos. Primero, se identifican mutaciones relevantes en genes asociados al cáncer (como PI3K). Luego, se predicen las estructuras 3D de estas proteínas utilizando AlphaFold. A partir de esas estructuras, se realizan simulaciones de docking con AutoDock Vina y Chimera para evaluar la afinidad de unión de fármacos (como Alpelisib). Todo el código y los resultados se organizan en este repositorio, promoviendo la reproducibilidad y la transparencia del trabajo.
+Este proyecto sigue una metodología basada en el uso de herramientas bioinformáticas para analizar la interacción entre proteínas mutadas y fármacos. Primero, se identifican mutaciones relevantes en genes asociados al cáncer (como PIK3CA). Luego, se predicen las estructuras 3D de estas proteínas utilizando AlphaFold (ColabFold). A partir de esas estructuras, se realizan simulaciones de docking con AutoDock Vina y Chimera para evaluar la afinidad de unión de fármacos (como Alpelisib). Todo el código y los resultados se organizan en este repositorio, promoviendo la reproducibilidad y la transparencia del trabajo.
 
 ## ✅ Conclusiones
 El uso de diferentes herramientas biosanitarias para modelar interacciones entre proteínas y fármacos supone un paso significativo en la medicina de precisión, mejorando resultados clínicos y optimizando tratamientos oncológicos.
 
-## 🖼️ Visualización de proteína PI3K mutada con ligando
+## 🖼️ Visualización de proteína PI3K mutada con inhibidor
  ![PI3K_color](https://github.com/user-attachments/assets/e7ac25b5-ce61-4b4a-a461-12c6eb9436ce)
